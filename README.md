@@ -16,9 +16,9 @@
     <br/>
     - 🌱 Aprimorando minhas habilidades em <strong>Segurança da Informação</strong> e <strong>AWS Cloud (Foundational & Associate)</strong>.
     <br/>
-    - 💬 Meus principais interesses fora da tecnologia são: sou Católico e estudo a doutrina, pratico musculação e toco guitarra.
+    - 💬 Católico, pratico musculação e toco violão/guitarra.
     <br/>
-    - 📫 Como me alcançar: <strong>karachbr@gmail.com</strong>
+    - 📫 Entre em contato comigo: <strong>karachbr@gmail.com</strong>
   </p>
 </div>
 
