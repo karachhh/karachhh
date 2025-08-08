@@ -26,7 +26,7 @@
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,gleam,git,aws" />
+      <img src="https://skillicons.dev/icons?i=python,git,aws" />
     </a>
   </p>
 </div>
